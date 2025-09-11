@@ -51,12 +51,23 @@
 
 ---
 
-## 🔥 Certifications
-<p>
-  <img src="https://img.shields.io/badge/Certified%20Ethical%20Hacker-CEH-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cisco%20Networking-Blue?style=for-the-badge&logo=cisco" />
-  <img src="https://img.shields.io/badge/TryHackMe%20Badges-Hacking-black?style=for-the-badge&logo=tryhackme" />
+## 🔥 Certifications  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EC--Council-Certified%20Ethical%20Hacker%20(CEH)-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Coursera-Google%20Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coursera-Cybersecurity%20Operations%20Fundamentals%20by%20Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coursera-Algorithmic%20Toolbox-blue?style=for-the-badge&logo=coursera&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Udemy-AWS%20Cloud%20Practitioner%202023-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Technophilia-Ethical%20Hacking-purple?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-NDG%20Linux%20Unhatched-lightgrey?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Cybersecurity%20Essentials-lightgrey?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Packet%20Tracer-lightgrey?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
+
 
 <!-- 
 ## 🧩 Featured Projects
