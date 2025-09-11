@@ -30,11 +30,11 @@
 ---
 
 ## 👨‍💻 About Me
-- 🛡️ 3rd-year **B.Tech CSE with Cybersecurity Minor**  
+- 🛡️ 4th-year **B.Tech CSE with Cybersecurity Minor**  
 - 🔑 Certified Ethical Hacker (**CEH**)  
 - 📖 Currently learning **SOC Analysis & Penetration Testing**  
 - 🛠️ Building projects in **AI + Cybersecurity**  
-- ⚡ Fun fact: I love **lifting & gaming** 🎮💪  
+- ⚡ Fun fact: I love **gaming** 🎮💪  
 
 ---
 
