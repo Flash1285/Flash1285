@@ -34,7 +34,7 @@
 ---
 
 ## 🎯 TryHackMe Stats
-![TryHackMe Badge](https://img.shields.io/endpoint?url=https://tryhackme-badges.s3.amazonaws.com/LuciferVivek31.json)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/LuciferVivek31.png?cacheBust=1)
 
 
 ---
