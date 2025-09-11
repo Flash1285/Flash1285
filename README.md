@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">🚀 Cybersecurity Student | CEH | Bug Bounty Enthusiast</h3>
+<h3 align="center">🚀 Cybersecurity Student | CEH | Ethical Hacking Enthusiast</h3>
 
 ---
 
