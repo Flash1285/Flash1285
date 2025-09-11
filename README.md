@@ -34,7 +34,7 @@
 ---
 
 ## 🎯 TryHackMe Stats
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/LuciferVivek31.png)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/LuciferVive31.png)
 
 ---
 
