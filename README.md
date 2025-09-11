@@ -25,14 +25,6 @@
 - **Dev Tools:** Linux, VM, Cloud
 - **Other:** SQL, Networking, Cloud Security  
 
----
-
-## 📊 GitHub Stats
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 ## 🧩 Featured Projects
 - 🔐 [ThreatGPT](https://github.com/yourusername/ThreatGPT) – AI chatbot for cyber threats  
 - 🌍 [Video to Multi-Language Summarizer](https://github.com/yourusername/VideoSummarizer)  
@@ -42,7 +34,7 @@
 ---
 
 ## 🎯 TryHackMe Stats
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/yourusername.png)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/LuciferVivek31.png)
 
 ---
 
