@@ -61,12 +61,10 @@
   <img src="https://img.shields.io/badge/TryHackMe%20Badges-Hacking-black?style=for-the-badge&logo=tryhackme" />
 </p>
 
----
-
+<!-- 
 ## 🧩 Featured Projects
 - 🔐 [ThreatGPT](https://github.com/vivekagrawal102003/ThreatGPT) – AI chatbot for cyber threats  
 - 🌍 [Video to Multi-Language Summarizer](https://github.com/vivekagrawal102003/VideoSummarizer)  
 - 🧪 [Disease Prediction System](https://github.com/vivekagrawal102003/DiseasePrediction)  
 - 🛡️ [VPN Project](https://github.com/vivekagrawal102003/VPN-Project)  
-
----
+-->
