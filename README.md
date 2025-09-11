@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Vivek;Cybersecurity+Student;Certified+Ethical+Hacker;Bug+Bounty+Hunter;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Vivek</h1>
 <h3 align="center">🚀 Cybersecurity Student | CEH | Ethical Hacking Enthusiast</h3>
 
 ---
