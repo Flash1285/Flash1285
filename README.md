@@ -1,10 +1,49 @@
-- 👋 Hi, I’m Vivek Agarwal
-- 👀 I’m a Third Year B.Tech Student at Bennett University
-- 🌱 I’m currently pursuing Computer Science Engineering
-- 💞️ I’m looking to collaborate on LinkedIn and Github
-- 📫 My LinkedIn - https://www.linkedin.com/in/vivekagr31
+# Hi 👋, I'm Vivek  
 
-<!---
-VivekAgarwal31/VivekAgarwal31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Cybersecurity Student | Certified Ethical Hacker | Computer Science (B.Tech, Minor in Cybersecurity)  
+
+---
+
+## 🛡️ About Me
+- 🎓 3rd-year BTech (CSE) student, specializing in Cybersecurity  
+- 🔑 CEH Certified | Security Research & Bug Bounty Enthusiast  
+- 💡 Interests: Penetration Testing, Web Security, Malware Analysis, AI in Cybersecurity  
+- 🛠️ Current Projects: ThreatGPT (AI chatbot for cyber threats), VPN Development  
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vivekagr31)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%2312100E.svg?&style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/LuciferVivek31)
+[![Email](https://img.shields.io/badge/Email-vivek@example.com-red?style=for-the-badge&logo=gmail)](mailto:vivekagrawal6336@gmail.com)
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** Python, SQL, Shell Scripting, C++  
+- **Security Tools:** Burp Suite, Nmap, Metasploit, Wireshark  
+- **Dev Tools:** Linux, VM, Cloud
+- **Other:** SQL, Networking, Cloud Security  
+
+---
+
+## 📊 GitHub Stats
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 🧩 Featured Projects
+- 🔐 [ThreatGPT](https://github.com/yourusername/ThreatGPT) – AI chatbot for cyber threats  
+- 🌍 [Video to Multi-Language Summarizer](https://github.com/yourusername/VideoSummarizer)  
+- 🧪 [Disease Prediction System](https://github.com/yourusername/DiseasePrediction)  
+- 🛡️ [VPN Project](https://github.com/yourusername/VPN-Project)  
+
+---
+
+## 🎯 TryHackMe Stats
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/yourusername.png)
+
+---
+
+⭐️ *"Hack the planet, but secure it first!"*  
