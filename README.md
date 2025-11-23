@@ -102,56 +102,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔐 Security & Penetration Testing
-- 🌐 **[Network Scanner](https://github.com/Flash1285/Network_Scanner)** – Advanced network reconnaissance and vulnerability scanning tool
-  - Technologies: Python, Scapy, Nmap
-  - Features: Port scanning, service detection, vulnerability assessment
-
-- 🔑 **[Keylogger with Encryption](https://github.com/Flash1285/Keylogger)** – Educational keylogger demonstrating security concepts
-  - Technologies: Python, Cryptography, GUI (Tkinter)
-  - Features: Encrypted logging, remote exfiltration simulation, kill switch
-
-- 🎣 **[Phishing Awareness Tool](https://github.com/Flash1285/Phishing-Tool)** – Educational tool for phishing detection training
-  - Technologies: HTML, CSS, JavaScript
-  - Purpose: Security awareness and training
-
-### 🤖 AI & Cybersecurity Integration
-- 🧠 **[ThreatGPT](https://github.com/Flash1285/ThreatGPT)** – AI-powered threat intelligence chatbot
-  - Technologies: Python, OpenAI API, Machine Learning
-  - Features: Real-time threat analysis, vulnerability recommendations
-
-- 🛡️ **[Automated Vulnerability Scanner](https://github.com/Flash1285/VulnScanner)** – AI-enhanced vulnerability detection
-  - Technologies: Python, Machine Learning, OWASP
-  - Features: Automated scanning, intelligent threat prioritization
-
-### 🔧 Security Tools & Utilities
-- 🔒 **[Password Strength Analyzer](https://github.com/Flash1285/PasswordAnalyzer)** – Advanced password security checker
-  - Technologies: Python, Regex, Entropy Analysis
-  - Features: Strength scoring, breach database checking
-
-- 📊 **[Security Dashboard](https://github.com/Flash1285/SecurityDashboard)** – Real-time security monitoring dashboard
-  - Technologies: Python, Flask, JavaScript, Chart.js
-  - Features: Log analysis, threat visualization, alerts
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flash1285&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flash1285&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flash1285&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 🎓 Education & Learning
 
